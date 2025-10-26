@@ -1,0 +1,57 @@
+sw_volume: 45
+audio_device_state:1:Pulseaudio
+audio_device_state:1:my_fifo
+state: play
+current: 1
+time: 120.081
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:Blksmiith - SR20DET.mp3
+1:Kyra - act slowed.mp3
+2:Faye Webster - Kingston.mp3
+3:HoodTrapJerk - Billie Jean.mp3
+4:Ikaz Boi - J'SAVAIS.mp3
+5:La Mano 1.9 - Businessman.mp3
+6:Zola - L1 L2.mp3
+7:Tezz - Coco.mp3
+8:Jiandro - Confess Your Love.mp3
+9:Vaporchrome - Ether.mp3
+10:Yamê - Solo.mp3
+11:Yamê - Shoot.mp3
+12:Yamê - Insensé.mp3
+13:Yamê - Mon bail.mp3
+14:Yamê - Call of Valhalla.mp3
+15:Yamê - Bahwai.mp3
+16:Yamê - Business.mp3
+17:La Fève - ZONE.mp3
+18:La Fève - NO HOOK.mp3
+19:Laufey - From The Start.mp3
+20:R2 - Viva.mp3
+21:NORWXXD REAPER - GOD PLEASE SAVE ME.mp3
+22:Damso - Θ. Macarena.mp3
+23:Kira - Vou Passar, Pt. 2.mp3
+24:Yamê - Kodjo.mp3
+25:Yamê - Kodjo (version acoustique).mp3
+26:KRYD - LET THE WORLD BURN (Hoodtrap - Mylancore Remix).mp3
+27:Damso - Feu de bois.mp3
+28:Zach Templar - missin something.mp3
+29:Suprême NTM - La fièvre.mp3
+30:d4vd - You and I.mp3
+31:d4vd - Romantic Homicide.mp3
+32:The Kid Laroi - NIGHTS LIKE THIS.mp3
+33:Toby Fox - Death By Glamour.mp3
+34:Toby Fox - ASGORE.mp3
+35:Toby Fox - Finale.mp3
+36:hkmori - anybody can find love (except you.).mp3
+37:MAPESS - CHANEL.mp3
+38:Zola - Wow.mp3
+39:jouvick - Young Girl A (Hoodtrap).mp3
+40:JRK 19 - AYOU.mp3
+playlist_end

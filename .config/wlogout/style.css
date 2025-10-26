@@ -1,0 +1,42 @@
+* {
+	background-image: none;
+	box-shadow: none;
+}
+
+window {
+	background-color: transparent;
+}
+
+button {
+    border-radius: 0;
+    border-color: #7aa2f7;
+	text-decoration-color: #FFFFFF;
+    color: #FFFFFF;
+	background-color: #1E1E1E;
+	border-style: solid;
+	border-width: 2px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 40%;
+}
+
+button:focus, button:active, button:hover {
+	background-color: #7aa2f7;
+	outline-style: none;
+}
+
+#lock {
+    background-image: image(url("/home/nikzo/.config/wlogout/icons/lock.png"));
+}
+
+#logout {
+    background-image: image(url("/home/nikzo/.config/wlogout/icons/logout.png"));
+}
+
+#shutdown {
+    background-image: image(url("/home/nikzo/.config/wlogout/icons/shutdown.png"));
+}
+
+#reboot {
+    background-image: image(url("/home/nikzo/.config/wlogout/icons/reboot.png"));
+}

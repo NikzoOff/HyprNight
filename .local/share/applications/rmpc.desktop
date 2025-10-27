@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=RMPC (Music Player)
 Comment=Client terminal pour MPD
-Exec=kitty -e rmpc
+Exec=foot -e rmpc
 Icon=multimedia-player
 Terminal=false
 Type=Application

@@ -58,6 +58,7 @@
       "modules": [
         "custom/openbracket",
         "hyprland/workspaces",
+        "dwl/tags",
         "custom/closebracket"
       ]
     },

@@ -122,7 +122,7 @@
           1,
           2,
           3
-        ] 
+        ]
       }
     },
     "mpris": {
@@ -136,8 +136,7 @@
       },
       "dynamic-order": [
         "artist"
-      ],
-      "player": "mpd"
+      ]
     },
     "hyprland/window": {
       "format": "{title}",

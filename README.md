@@ -8,11 +8,11 @@ This rice is focused on productivity and lightness.
 
 ## Main Components
 
-- **Wayland / WM**: Hyprland (main), Sway (for testing)  
-- **Bar / Widgets**: Waybar, Waypaper  
+- **Wayland / WM**: Hyprland (main)  
+- **Bar / Widgets**: Waybar, Waypapern swaync
 - **Launcher / Shortcuts**: Rofi  
 - **Editors / IDEs**: VSCodium, LazyVim / Neovim  
-- **Music / Audio**: MPD, ncmpcpp, rmpc, swaync  
+- **Music / Audio**: MPD, ncmpcpp, rmpc
 - **Session / Logout**: wlogout  
 - **Terminal / Shell**: Foot, Fish  
 
@@ -29,5 +29,5 @@ This rice is focused on productivity and lightness.
 ## Notes
 
 - Configurations are fully **customizable**.  
-- This repository is intended **only as a personal backup and reference**.  
+- This repository is intended **only as a personal backup and reference, no help will be provided, nor an install script**.  
 - Fully compatible with **Wayland only**.

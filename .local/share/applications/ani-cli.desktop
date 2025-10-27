@@ -1,0 +1,8 @@
+[Desktop Entry]
+type=Application
+Name=ANI-CLI (watching anime)
+Icon=none
+Exec=foot -e ani-cli
+Terminal=false
+Type=Application
+Categories=Utility

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RMPC (Music Player)
+Comment=Client terminal pour MPD
+Exec=kitty -e rmpc
+Icon=multimedia-player
+Terminal=false
+Type=Application
+Categories=Audio;Music;Player;
+StartupNotify=true

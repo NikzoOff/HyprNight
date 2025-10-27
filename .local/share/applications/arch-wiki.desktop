@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Arch Wiki (Offline)
+Comment=Ouvrir la version hors-ligne de l'Arch Wiki
+Exec=firefox /usr/share/doc/arch-wiki/html/en/
+Icon=archlinux
+Terminal=false
+Type=Application
+Categories=Documentation;Utility;

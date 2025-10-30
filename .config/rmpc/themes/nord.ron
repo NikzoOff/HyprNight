@@ -22,7 +22,7 @@
        bar_spacing: 1,
     ),
     highlighted_item_style: (fg: "#7aa2f7", modifiers: "Bold"),
-    current_item_style: (fg: "#2e3440", bg: "#81a1c1", modifiers: "Bold"),
+    current_item_style: (fg: "#2e3440", bg: "#7aa2f7", modifiers: "Bold"),
     borders_style: (fg: "#5571ab", modifiers: "Bold"),
     highlight_border_style: (fg: "#5571ab"),
     symbols: (song: "󰝚 ", dir: " ", playlist: "󰲸 ", marker: "* ", ellipsis: "..."),
